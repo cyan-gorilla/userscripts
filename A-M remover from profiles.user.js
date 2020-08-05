@@ -39,5 +39,4 @@
 		getRatedArray("m").forEach(removeTile);
 		getRatedArray("a").forEach(removeTile);
     }
-
 })();
