@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         US_AdultContentRemover
+// @namespace    https://www.newgrounds.com/
+// @version      0.2
+// @date         2020-08-05
 // @description  A tool to remove M and A submissions from NewGrounds profiles
 // @author       cyangorilla
-// @namespace    https://www.newgrounds.com/
-// @include      https://*.newgrounds.com/*
-// @version      0.2
+// @match        https://*.newgrounds.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
