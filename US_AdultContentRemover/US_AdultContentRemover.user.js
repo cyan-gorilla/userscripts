@@ -7,7 +7,7 @@
 // @updateURL    https://github.com/cyan-gorilla/userscripts/raw/master/US_AdultContentRemover/US_AdultContentRemover.meta.js
 // @downloadURL  https://github.com/cyan-gorilla/userscripts/raw/master/US_AdultContentRemover/US_AdultContentRemover.user.js
 // @author       cyangorilla
-// @match        https://*.newgrounds.com/*
+// @match        https://*.newgrounds.com/art
 // @grant        none
 // @license      MIT
 // @copyright    2020, cyangorilla (https://openuserjs.org/users/cyangorilla)
